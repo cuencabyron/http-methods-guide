@@ -1,4 +1,3 @@
-Dame un nombre adecuado de repositorio en GitHub para este README
 <h1 align="center">MÉTODOS DE PETICIÓN HTTP</h1>
 
 ## ¿Qué son?
